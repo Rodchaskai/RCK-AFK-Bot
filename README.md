@@ -5,8 +5,8 @@ Bilgisayarınıza ekstra hiçbir şey (Node.js vb.) kurmanıza gerek yoktur.
 Bu uygulama hiçbir şekilde veri tutmaz, tamamen güvendesiniz!
 bug, öneri, erken erişim, sohbet muhabbet, ticket için discord.gg/rodchaskai :)
 
-BU UYGULAMA TEKRAR DAĞITILAMAZ/SATILAMAZ! TAMAMEN ÜCRETSİZDİR. TEK ORİJİNAL SAYFASI BURASIDIR.
-DETAILS: LICENSE.md | COPYCAT GÖRÜRSENİZ BANA BİLDİRİN. 
+BU UYGULAMA TEKRAR DAĞITILAMAZ/SATILAMAZ! TAMAMEN ÜCRETSİZ, REKLAMSIZ, VİRÜSSÜZDÜR. TEK ORİJİNAL SAYFASI BURASIDIR.
+                    DETAILS: LICENSE.md | COPYCAT GÖRÜRSENİZ BANA BİLDİRİN. 
 
 Saygılarımla,
 - RODCHASKAI
