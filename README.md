@@ -3,4 +3,10 @@ Sayfanın sağ tarafında bulunan Releases (Sürümler) bölümünden en güncel
 Bilgisayarınıza ekstra hiçbir şey (Node.js vb.) kurmanıza gerek yoktur.
 
 Bu uygulama hiçbir şekilde veri tutmaz, tamamen güvendesiniz!
-bug, öneri, sohbet muhabbet için discord.gg/rodchaskai :)
+bug, öneri, erken erişim, sohbet muhabbet, ticket için discord.gg/rodchaskai :)
+
+BU UYGULAMA TEKRAR DAĞITILAMAZ/SATILAMAZ! TAMAMEN ÜCRETSİZDİR. TEK ORİJİNAL SAYFASI BURASIDIR.
+DETAILS: LICENSE.md | COPYCAT GÖRÜRSENİZ BANA BİLDİRİN. 
+
+Saygılarımla,
+- RODCHASKAI
